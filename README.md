@@ -70,3 +70,6 @@ The dataset used for this project is titled heart_disease.csv and it is sourced 
 
 ### Conclusion
 Given the importance of identifying patients at risk of heart disease, Logistic Regression is preferred due to its higher recall for the positive class (patients at risk). This ensures that more at-risk patients are correctly identified, which is critical in a life/death scenario.
+
+## Presentation
+Presentation: [Heart Disease](https://www.canva.com/design/DAGJYpf-X3o/oFpB6XnRiEzkf_t663EGng/edit?utm_content=DAGJYpf-X3o&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
